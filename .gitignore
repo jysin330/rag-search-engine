@@ -9,3 +9,8 @@ wheels/
 # Virtual environments
 .venv
 .env
+# Ignore all DOCX files
+0_DataInjestParsing/data/word_files/*.docx
+
+# Ignore all PDF files
+0_DataInjestParsing/data/pdf/*.pdf
