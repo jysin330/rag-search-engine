@@ -1,0 +1,6 @@
+Product_ID,Product_Name,Category,Brand,Price,Stock,Rating,Description,Supplier
+101,Dell Inspiron 15,Laptop,Dell,55000,15,4.5,"15.6-inch laptop with Intel Core i5 processor, 8GB RAM, and 512GB SSD suitable for work and study.",Tech Distributors Ltd
+102,Logitech Wireless Mouse,Mouse,Logitech,799,100,4.3,Ergonomic wireless mouse with adjustable DPI and long battery life.,Accessory World
+103,HP Mechanical Keyboard,Keyboard,HP,2499,50,4.4,Mechanical keyboard with RGB lighting and durable switches for gaming and typing.,HP Partners
+104,Samsung 24-inch Monitor,Monitor,Samsung,12999,25,4.6,24-inch Full HD monitor with IPS panel and slim bezel design.,Display Solutions
+105,Sony Bluetooth Headphones,Headphones,Sony,3499,40,4.7,Wireless Bluetooth headphones with noise cancellation and up to 30 hours battery life.,Audio Hub

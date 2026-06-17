@@ -12,3 +12,6 @@ pymupdf
 python-docx
 docx2txt
 unsturctured
+pandas
+openpyxl
+msoffcrypto-tool
