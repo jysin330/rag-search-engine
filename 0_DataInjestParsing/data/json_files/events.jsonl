@@ -1,0 +1,8 @@
+{"timestamp": "2024-01-01", "event": "user_login", "user_id": 123}
+{"timestamp": "2024-01-01", "event": "page_view", "user_id": 123, "page": "/home"}
+{"timestamp": "2024-01-01", "event": "purchase", "user_id": 123, "amount": 99.99}
+{"timestamp": "2024-01-02", "event": "user_logout", "user_id": 123}
+{"timestamp": "2024-01-02", "event": "user_login", "user_id": 456}
+{"timestamp": "2024-01-02", "event": "page_view", "user_id": 456, "page": "/products"}
+{"timestamp": "2024-01-02", "event": "add_to_cart", "user_id": 456, "product_id": "P001"}
+{"timestamp": "2024-01-02", "event": "purchase", "user_id": 456, "amount": 149.99}

@@ -1,0 +1,57 @@
+{
+  "company": "TechCorp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "role": "Software Engineer",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "React"
+      ],
+      "projects": [
+        {
+          "name": "RAG System",
+          "status": "In Progress"
+        },
+        {
+          "name": "Data Pipeline",
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "role": "Data Scientist",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "SQL"
+      ],
+      "projects": [
+        {
+          "name": "Customer Segmentation",
+          "status": "Completed"
+        },
+        {
+          "name": "Fraud Detection",
+          "status": "In Progress"
+        }
+      ]
+    }
+  ],
+  "departments": [
+    {
+      "name": "Engineering",
+      "manager": "John Doe",
+      "budget": 500000
+    },
+    {
+      "name": "Data Science",
+      "manager": "Jane Smith",
+      "budget": 300000
+    }
+  ]
+}
